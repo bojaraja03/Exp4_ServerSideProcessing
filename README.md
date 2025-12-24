@@ -1,6 +1,6 @@
 # Ex.04 Design a Website for Server Side Processing
 ## Date:
-
+22-12-2025
 ## AIM:
  To design a website to calculate the power of a lamp filament in an incandescent bulb in the server side. 
 
@@ -33,7 +33,6 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 ```
-bmi_calculator.html
 <!DOCTYPE html>
 <html>
 <head>
